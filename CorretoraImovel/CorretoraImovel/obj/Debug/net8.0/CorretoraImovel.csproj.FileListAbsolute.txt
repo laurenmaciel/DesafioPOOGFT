@@ -1,0 +1,14 @@
+C:\Users\pichau\Desktop\Projeto-GFT\DesafioPOO-tentativa2\CorretoraImovel\CorretoraImovel\bin\Debug\net8.0\CorretoraImovel.exe
+C:\Users\pichau\Desktop\Projeto-GFT\DesafioPOO-tentativa2\CorretoraImovel\CorretoraImovel\bin\Debug\net8.0\CorretoraImovel.deps.json
+C:\Users\pichau\Desktop\Projeto-GFT\DesafioPOO-tentativa2\CorretoraImovel\CorretoraImovel\bin\Debug\net8.0\CorretoraImovel.runtimeconfig.json
+C:\Users\pichau\Desktop\Projeto-GFT\DesafioPOO-tentativa2\CorretoraImovel\CorretoraImovel\bin\Debug\net8.0\CorretoraImovel.dll
+C:\Users\pichau\Desktop\Projeto-GFT\DesafioPOO-tentativa2\CorretoraImovel\CorretoraImovel\bin\Debug\net8.0\CorretoraImovel.pdb
+C:\Users\pichau\Desktop\Projeto-GFT\DesafioPOO-tentativa2\CorretoraImovel\CorretoraImovel\obj\Debug\net8.0\CorretoraImovel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pichau\Desktop\Projeto-GFT\DesafioPOO-tentativa2\CorretoraImovel\CorretoraImovel\obj\Debug\net8.0\CorretoraImovel.AssemblyInfoInputs.cache
+C:\Users\pichau\Desktop\Projeto-GFT\DesafioPOO-tentativa2\CorretoraImovel\CorretoraImovel\obj\Debug\net8.0\CorretoraImovel.AssemblyInfo.cs
+C:\Users\pichau\Desktop\Projeto-GFT\DesafioPOO-tentativa2\CorretoraImovel\CorretoraImovel\obj\Debug\net8.0\CorretoraImovel.csproj.CoreCompileInputs.cache
+C:\Users\pichau\Desktop\Projeto-GFT\DesafioPOO-tentativa2\CorretoraImovel\CorretoraImovel\obj\Debug\net8.0\CorretoraImovel.dll
+C:\Users\pichau\Desktop\Projeto-GFT\DesafioPOO-tentativa2\CorretoraImovel\CorretoraImovel\obj\Debug\net8.0\refint\CorretoraImovel.dll
+C:\Users\pichau\Desktop\Projeto-GFT\DesafioPOO-tentativa2\CorretoraImovel\CorretoraImovel\obj\Debug\net8.0\CorretoraImovel.pdb
+C:\Users\pichau\Desktop\Projeto-GFT\DesafioPOO-tentativa2\CorretoraImovel\CorretoraImovel\obj\Debug\net8.0\CorretoraImovel.genruntimeconfig.cache
+C:\Users\pichau\Desktop\Projeto-GFT\DesafioPOO-tentativa2\CorretoraImovel\CorretoraImovel\obj\Debug\net8.0\ref\CorretoraImovel.dll

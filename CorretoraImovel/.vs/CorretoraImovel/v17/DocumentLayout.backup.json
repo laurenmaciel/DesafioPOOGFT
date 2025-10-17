@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pichau\\Desktop\\Projeto-GFT\\DesafioPOO-tentativa2\\CorretoraImovel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{234F9103-7739-405C-8E55-D660B322DBC2}|CorretoraImovel\\CorretoraImovel.csproj|c:\\users\\pichau\\desktop\\projeto-gft\\desafiopoo-tentativa2\\corretoraimovel\\corretoraimovel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234F9103-7739-405C-8E55-D660B322DBC2}|CorretoraImovel\\CorretoraImovel.csproj|solutionrelative:corretoraimovel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234F9103-7739-405C-8E55-D660B322DBC2}|CorretoraImovel\\CorretoraImovel.csproj|c:\\users\\pichau\\desktop\\projeto-gft\\desafiopoo-tentativa2\\corretoraimovel\\corretoraimovel\\models\\proprietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234F9103-7739-405C-8E55-D660B322DBC2}|CorretoraImovel\\CorretoraImovel.csproj|solutionrelative:corretoraimovel\\models\\proprietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234F9103-7739-405C-8E55-D660B322DBC2}|CorretoraImovel\\CorretoraImovel.csproj|c:\\users\\pichau\\desktop\\projeto-gft\\desafiopoo-tentativa2\\corretoraimovel\\corretoraimovel\\models\\corretora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234F9103-7739-405C-8E55-D660B322DBC2}|CorretoraImovel\\CorretoraImovel.csproj|solutionrelative:corretoraimovel\\models\\corretora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234F9103-7739-405C-8E55-D660B322DBC2}|CorretoraImovel\\CorretoraImovel.csproj|c:\\users\\pichau\\desktop\\projeto-gft\\desafiopoo-tentativa2\\corretoraimovel\\corretoraimovel\\models\\apartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234F9103-7739-405C-8E55-D660B322DBC2}|CorretoraImovel\\CorretoraImovel.csproj|solutionrelative:corretoraimovel\\models\\apartamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234F9103-7739-405C-8E55-D660B322DBC2}|CorretoraImovel\\CorretoraImovel.csproj|c:\\users\\pichau\\desktop\\projeto-gft\\desafiopoo-tentativa2\\corretoraimovel\\corretoraimovel\\models\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234F9103-7739-405C-8E55-D660B322DBC2}|CorretoraImovel\\CorretoraImovel.csproj|solutionrelative:corretoraimovel\\models\\casa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234F9103-7739-405C-8E55-D660B322DBC2}|CorretoraImovel\\CorretoraImovel.csproj|c:\\users\\pichau\\desktop\\projeto-gft\\desafiopoo-tentativa2\\corretoraimovel\\corretoraimovel\\models\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234F9103-7739-405C-8E55-D660B322DBC2}|CorretoraImovel\\CorretoraImovel.csproj|solutionrelative:corretoraimovel\\models\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Corretora.cs",
+              "DocumentMoniker": "C:\\Users\\pichau\\Desktop\\Projeto-GFT\\DesafioPOO-tentativa2\\CorretoraImovel\\CorretoraImovel\\Models\\Corretora.cs",
+              "RelativeDocumentMoniker": "CorretoraImovel\\Models\\Corretora.cs",
+              "ToolTip": "C:\\Users\\pichau\\Desktop\\Projeto-GFT\\DesafioPOO-tentativa2\\CorretoraImovel\\CorretoraImovel\\Models\\Corretora.cs",
+              "RelativeToolTip": "CorretoraImovel\\Models\\Corretora.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAkwKQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:11:43.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proprietario.cs",
+              "DocumentMoniker": "C:\\Users\\pichau\\Desktop\\Projeto-GFT\\DesafioPOO-tentativa2\\CorretoraImovel\\CorretoraImovel\\Models\\Proprietario.cs",
+              "RelativeDocumentMoniker": "CorretoraImovel\\Models\\Proprietario.cs",
+              "ToolTip": "C:\\Users\\pichau\\Desktop\\Projeto-GFT\\DesafioPOO-tentativa2\\CorretoraImovel\\CorretoraImovel\\Models\\Proprietario.cs",
+              "RelativeToolTip": "CorretoraImovel\\Models\\Proprietario.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:11:19.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Imovel.cs",
+              "DocumentMoniker": "C:\\Users\\pichau\\Desktop\\Projeto-GFT\\DesafioPOO-tentativa2\\CorretoraImovel\\CorretoraImovel\\Models\\Imovel.cs",
+              "RelativeDocumentMoniker": "CorretoraImovel\\Models\\Imovel.cs",
+              "ToolTip": "C:\\Users\\pichau\\Desktop\\Projeto-GFT\\DesafioPOO-tentativa2\\CorretoraImovel\\CorretoraImovel\\Models\\Imovel.cs",
+              "RelativeToolTip": "CorretoraImovel\\Models\\Imovel.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA3wEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:11:05.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Casa.cs",
+              "DocumentMoniker": "C:\\Users\\pichau\\Desktop\\Projeto-GFT\\DesafioPOO-tentativa2\\CorretoraImovel\\CorretoraImovel\\Models\\Casa.cs",
+              "RelativeDocumentMoniker": "CorretoraImovel\\Models\\Casa.cs",
+              "ToolTip": "C:\\Users\\pichau\\Desktop\\Projeto-GFT\\DesafioPOO-tentativa2\\CorretoraImovel\\CorretoraImovel\\Models\\Casa.cs",
+              "RelativeToolTip": "CorretoraImovel\\Models\\Casa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:10:51.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apartamento.cs",
+              "DocumentMoniker": "C:\\Users\\pichau\\Desktop\\Projeto-GFT\\DesafioPOO-tentativa2\\CorretoraImovel\\CorretoraImovel\\Models\\Apartamento.cs",
+              "RelativeDocumentMoniker": "CorretoraImovel\\Models\\Apartamento.cs",
+              "ToolTip": "C:\\Users\\pichau\\Desktop\\Projeto-GFT\\DesafioPOO-tentativa2\\CorretoraImovel\\CorretoraImovel\\Models\\Apartamento.cs",
+              "RelativeToolTip": "CorretoraImovel\\Models\\Apartamento.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:10:38.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pichau\\Desktop\\Projeto-GFT\\DesafioPOO-tentativa2\\CorretoraImovel\\CorretoraImovel\\Program.cs",
+              "RelativeDocumentMoniker": "CorretoraImovel\\Program.cs",
+              "ToolTip": "C:\\Users\\pichau\\Desktop\\Projeto-GFT\\DesafioPOO-tentativa2\\CorretoraImovel\\CorretoraImovel\\Program.cs*",
+              "RelativeToolTip": "CorretoraImovel\\Program.cs*",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAkwCcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:09:54.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
