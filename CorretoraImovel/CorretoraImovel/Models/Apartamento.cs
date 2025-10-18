@@ -8,7 +8,6 @@ namespace CorretoraImovel.Models
 {
     public class Apartamento : Imovel
     {
-        // Atributos protected (Herança)
         protected int Andar;
         protected bool TemElevador;
         protected int NumeroVagasGaragem;
@@ -27,7 +26,6 @@ namespace CorretoraImovel.Models
             TaxaCondominio = taxaCondominio;
         }
 
-        // Sobrescrita de CalcularAluguel (Polimorfismo)
         public override decimal CalcularAluguel(int dias)
         {
             decimal valorBaseMensal = 800m;
@@ -38,7 +36,6 @@ namespace CorretoraImovel.Models
             return valorDiario * dias;
         }
 
-        // Sobrescrita de ObterStatusAluguel (Polimorfismo - Requisito 8)
         public override string ObterStatusAluguel()
         {
             return Alugado ? $"O apartamento nº {Numero} está alugado" : $"O apartamento nº {Numero} está disponível";
