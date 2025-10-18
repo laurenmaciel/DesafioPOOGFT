@@ -30,7 +30,6 @@ namespace CorretoraImovel.Models
             return _imoveis.FirstOrDefault(i => i.GetId() == id);
         }
 
-        // Lógica: Cadastro
         public void CadastrarImovel(Imovel imovel)
         {
             if (_imoveis.Any(i => i.GetId() == imovel.GetId()))
@@ -50,7 +49,6 @@ namespace CorretoraImovel.Models
             System.Console.WriteLine(imovel.ExibirInformacoes());
         }
 
-        // Lógica: Exclusão
         public void DeletarImovel(int id)
         {
             Imovel imovelDeletado = BuscarImovelPorId(id);
@@ -66,7 +64,6 @@ namespace CorretoraImovel.Models
             }
         }
 
-        // Lógica: Alugar (Inclui verificação de aluguel duplo)
         public bool AlugarImovel(int id)
         {
             Imovel imovel = BuscarImovelPorId(id);
@@ -91,7 +88,6 @@ namespace CorretoraImovel.Models
             }
         }
 
-        // Lógica: Disponibilizar
         public bool DisponibilizarImovel(int id)
         {
             Imovel imovel = BuscarImovelPorId(id);
@@ -116,7 +112,6 @@ namespace CorretoraImovel.Models
             }
         }
 
-        // Lógica: Cálculo
         public decimal CalcularAluguelTotal(int id, int dias)
         {
             Imovel imovel = BuscarImovelPorId(id);
@@ -127,9 +122,7 @@ namespace CorretoraImovel.Models
                 {
                     System.Console.WriteLine("\nERRO: O período (dias) deve ser maior que zero.");
                     return 0;
-                }
-
-                // Polimorfismo em ação
+                
                 decimal valorTotal = imovel.CalcularAluguel(dias);
 
                 System.Console.WriteLine($"\nCÁLCULO DE ALUGUEL POR PERÍODO:");
@@ -146,7 +139,6 @@ namespace CorretoraImovel.Models
             }
         }
 
-        // Lógica: Listagem
         public List<Imovel> ListarImoveis(bool apenasAlugados = false, bool apenasDisponiveis = false)
         {
             IEnumerable<Imovel> lista = _imoveis;
