@@ -6,17 +6,15 @@ public class Program
 
     public static void Main(string[] args)
     {
-        // --- Inicialização de Dados ---
         Proprietario prop1 = new Proprietario("João Silva", "9999-1111", "111.111.111-11");
         Proprietario prop2 = new Proprietario("Maria Souza", "8888-2222", "222.222.222-22");
-        Proprietario prop3 = new Proprietario("José Teste", "7777-3333", "000.000.000-00"); // CPF inválido para teste
+        Proprietario prop3 = new Proprietario("José Teste", "7777-3333", "000.000.000-00"); 
 
-        // Imóveis de Exemplo
         corretora.CadastrarImovel(new Casa(corretora.ObterProximoId(), "Rua dos Campos", 100, prop1, 3, 2, true, 250.50));
         corretora.CadastrarImovel(new Apartamento(corretora.ObterProximoId(), "Av. Central", 50, prop1, 5, false, 1, 85.70, 350.00m));
 
         Casa casaAlugada = new Casa(corretora.ObterProximoId(), "Rua do Sol", 25, prop2, 4, 3, true, 400.00);
-        casaAlugada.Alugar(); // Marca como alugada
+        casaAlugada.Alugar(); 
         corretora.CadastrarImovel(casaAlugada);
 
         corretora.CadastrarImovel(new Apartamento(corretora.ObterProximoId(), "Rua do Erro", 99, prop3, 1, true, 0, 50.00, 100.00m));
@@ -147,7 +145,6 @@ public class Program
             return;
         }
 
-        // --- Leitura de Dados Comuns ---
         Console.Write("\nEndereço: ");
         string endereco = Console.ReadLine();
 
