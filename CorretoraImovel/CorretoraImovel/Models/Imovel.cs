@@ -8,7 +8,6 @@ namespace CorretoraImovel.Models
 {
     public abstract class Imovel
     {
-        // Atributos protected conforme Requisito 4.1
         protected int Id;
         protected string Endereco;
         protected int Numero;
@@ -24,14 +23,11 @@ namespace CorretoraImovel.Models
             Alugado = false;
         }
 
-        // Getters públicos (Encapsulamento)
         public int GetId() { return Id; }
         public string GetEndereco() { return Endereco; }
         public int GetNumero() { return Numero; }
         public bool GetAlugado() { return Alugado; }
         public Proprietario GetProprietario() { return Proprietario; }
-
-        // Setters controlados (Encapsulamento)
         public void SetEndereco(string novoEndereco)
         {
             if (!string.IsNullOrWhiteSpace(novoEndereco))
@@ -39,8 +35,7 @@ namespace CorretoraImovel.Models
                 Endereco = novoEndereco;
             }
         }
-
-        // Métodos que alteram o status (Encapsulamento - Requisito 5.2)
+        
         public void Alugar()
         {
             if (!Alugado)
@@ -57,10 +52,7 @@ namespace CorretoraImovel.Models
             }
         }
 
-        // Método Abstrato (Abstração)
         public abstract decimal CalcularAluguel(int dias);
-
-        // Método Virtual (Polimorfismo)
         public virtual string ObterStatusAluguel()
         {
             return Alugado ? "Alugado" : "Disponível";
