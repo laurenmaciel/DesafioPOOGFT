@@ -8,7 +8,6 @@ namespace CorretoraImovel.Models
 {
     public class Casa : Imovel
     {
-        // Atributos protected (Herança)
         protected int NumeroQuartos;
         protected int NumeroBanheiros;
         protected bool TemGaragem;
@@ -24,7 +23,6 @@ namespace CorretoraImovel.Models
             AreaTerreno = areaTerreno;
         }
 
-        // Sobrescrita de CalcularAluguel (Polimorfismo)
         public override decimal CalcularAluguel(int dias)
         {
             decimal valorBaseMensal = 1000m;
@@ -35,7 +33,6 @@ namespace CorretoraImovel.Models
             return valorDiario * dias;
         }
 
-        // Sobrescrita de ObterStatusAluguel (Polimorfismo - Requisito 8)
         public override string ObterStatusAluguel()
         {
             return Alugado ? "A casa está alugada" : "A casa está disponível";
